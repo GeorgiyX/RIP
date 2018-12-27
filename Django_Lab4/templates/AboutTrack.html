@@ -1,0 +1,14 @@
+{% extends 'Base.html' %}
+{% block title %}About {{val}}{% endblock %}
+{% block body %}
+    	<div style="padding-top: 10px"> <H1 class = "text2deg"><strong>Файл: {{val}}</strong></H1>
+            </div>
+        <div style="color: #98C4E7; margin-left: 20px; padding-top: 6px;">
+         <P>Artist: {{ info.artist }}</P>
+        <p> Album: {{ info.album }}</P>
+        <p>Track num: {{ info.track_num }}</P>
+            <p>Ttitle : {{ info.title }}</P>
+
+        </div>
+
+{% endblock %}

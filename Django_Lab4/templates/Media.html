@@ -1,0 +1,5 @@
+{% load staticfiles %}
+<div class="music">
+    <a href="music/{{ element }}">{{ element }}</a><br>
+    <audio controls><source src="{% static  ""%}Media\{{element}}.mp3"  type="audio/mp3"></audio>
+</div>
