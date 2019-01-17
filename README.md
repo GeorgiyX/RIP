@@ -6,4 +6,4 @@
 [ЛР4](https://github.com/GeorgiyX/RIP/tree/master/Django_Lab4)
 [ЛР5](https://github.com/GeorgiyX/DZ1_Lab5)
 ***
-[DZ1](http://172.31.19.202:8001/)
+[DZ1](http://34.217.126.104)
