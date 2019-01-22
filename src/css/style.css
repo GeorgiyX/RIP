@@ -1,0 +1,11 @@
+.simple{
+    font-size: 60px;
+    color: brown;
+    border: 2px;
+    border-color: blueviolet;
+}
+body{
+    font-size: 60px;
+    border: 2px;
+    border-color: blueviolet;
+}
